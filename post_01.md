@@ -5,7 +5,7 @@ Bienvenidas a los Martes de Codies
 Hola mi nombre es Stella, nací en la ciudad de Barranquilla hace unos veinti tantos años.
 Del colegio me gradué con honores. Desde muy pequeña intuí que lo mío era alguna ingeniería y con el paso del tiempo e investigando llegué a la conclusión, y total convicción de que quería estudiar ingeniería de sistemas.   
 
-Ya en la universidad, terminé mi carrera y comencé  mi especialización en Ingeniería de Software. Luego, también terminé mi maestría en Ingeniería de Sistemas.
+Ya en la universidad, terminé mi carrera y comencé  mi especialización en Ingeniería de Software. Luego, terminé mi maestría en Ingeniería de Sistemas.
 
 Antes de graduarme de pregrado, tuve la fortuna de iniciar mi carrera laboral en Koombea  y estuve 5 años trabajando allí donde ocupé varios roles: Junior Developer, Senior Developer y Technical Lead. En esta empresa conocí RAILS y con el tiempo descubrí que me gustaba mucho este lenguaje.  
 
