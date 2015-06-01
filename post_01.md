@@ -3,7 +3,7 @@ Bienvenidas a los Martes de Codies
 
 
 Hola mi nombre es Stella, nací en la ciudad de Barranquilla hace unos veinti tantos años.
-Del colegio me gradué con honores. Desde muy pequeña intuí que lo mío era alguna ingeniería y con el paso del tiempo e investigando llegué a la conclusión, y total convicción de que quería estudiar ingeniería de sistemas.   
+Desde muy pequeña intuí que lo mío era alguna ingeniería y con el paso del tiempo e investigando llegué a la conclusión, y total convicción de que quería estudiar ingeniería de sistemas.   
 
 Ya en la universidad, terminé mi carrera y comencé  mi especialización en Ingeniería de Software. Luego, terminé mi maestría en Ingeniería de Sistemas.
 
