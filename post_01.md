@@ -16,7 +16,7 @@ Este año de julio a septiembre participaré como Coach en Rails Girls Summer of
 
 En Hackhands he tenido la suerte de trabajar con la comunidad de Sudáfrica, quienes están aprendiendo Rails y esto para mí ha sido una experiencia particularmente maravillosa.
 
-Las invito a todas a animarse y enviarme a stella@codies.org ideas o propuestas para ser publicadas los martes en este espacio.
+Invito a todos y todas a animarse y enviarme a stella@codies.org ideas o propuestas para ser publicadas los martes en este espacio.
  
 ¡Bienvenidas a los Martes de Codies, es un gusto que esten conmigo!
 
