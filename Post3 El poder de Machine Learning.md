@@ -1,6 +1,4 @@
-# Codies-Tuesdays
-
-El poder de Machile Learning.
+# El poder de Machile Learning.
 
 Lo primero que debemos saber es, ¿Que es Machine Learning?, es probable que lo  hayamos usado varias veces al día, sin siquiera saberlo, pues cada vez que hacemos una búsqueda web en cualquier buscador (Google, Bing), estos por medio de su software de aprendizaje de máquina han descubierto la manera de clasificar que paginas son las de nuestro agrado, cuales son las búsquedas que realizamos frecuentemente e incluso cuando realizamos una búsqueda de algún producto en Amazon ellos empiezan a recomendarnos productos de la misma categoría, productos parecidos y también nos muestran promociones por medio de nuestras redes sociales (Facebook). Esto también sucede cuando buscamos tiquetes aéreos.
 
