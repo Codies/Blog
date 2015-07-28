@@ -11,7 +11,7 @@ Para lograr esto es muy importante tener en cuenta los siguientes tips, trucos y
 
 ###En el camino del auto aprendizaje
 - Asegúrate de hacer seguimiento de tu aprendizaje: tomar notas, auto evaluarte y examinar tus niveles de conocimiento, esto es importante para medir tu camino de progreso.
-- La herramienta más poderosa: las personas que trabajan al rededor tuyo y aquellas que se encuentran en tu mismo ambiente de trabajo (empieza iyendo a meetups, conferencias, charlas, y actividades en general de la comunidad).
+- La herramienta más poderosa: las personas que trabajan al rededor tuyo y aquellas que se encuentran en tu mismo ambiente de trabajo (empieza yendo a meetups, conferencias, charlas, y actividades en general de la comunidad).
 
 ###En el camino del trabajo
 - Encuentra un mentor: esta es una relación que debe evolucionar naturalmente, ya que el mentor tiene que dar de su tiempo y tener un compromiso hacía la importancia de tu aprendizaje. Esta es una relación de dos vías, muestra que el aprendizaje es tu prioridad. 
