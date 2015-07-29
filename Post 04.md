@@ -11,13 +11,13 @@ Para lograr esto es muy importante tener en cuenta los siguientes tips, trucos y
 
 ###En el camino del auto aprendizaje
 - Asegúrate de hacer seguimiento de tu aprendizaje: tomar notas, auto evaluarte y examinar tus niveles de conocimiento, esto es importante para medir tu camino de progreso.
-- La herramienta más poderosa: las personas que trabajan al rededor tuyo y aquellas que se encuentran en tu mismo ambiente de trabajo (empieza yendo a meetups, conferencias, charlas, y actividades en general de la comunidad).
+- La herramienta más poderosa: las personas que trabajan alrededor tuyo y aquellas que se encuentran en tu mismo ambiente de trabajo (empieza yendo a meetups, conferencias, charlas, y actividades en general de la comunidad).
 
 ###En el camino del trabajo
 - Encuentra un mentor: esta es una relación que debe evolucionar naturalmente, ya que el mentor tiene que dar de su tiempo y tener un compromiso hacía la importancia de tu aprendizaje. Esta es una relación de dos vías, muestra que el aprendizaje es tu prioridad. 
 - Trabaja con otros desarrolladores juniors o de nivel intermedio: estos te pueden comentar sobre su experiencia y como sabes, de todas las personas aprendemos algo diferente.
 - Investiga: esta es una práctica muy importante para tu crecimiento profesional, no te quedes con lo que tu mentor u otros compañeros aporten, se proactivo.
-- Sigue mejorando tus habilidades: habla alto, si necesitas algo no seas tímida, recuerda que es mejor preguntar que quedarse callado. Trabajar con desarrolladores seniors es una ventaja muy grande, ¡es casi como trabajar con una enciclopedia andante!
+- Sigue mejorando tus habilidades: habla alto, si necesitas algo no seas tímido, recuerda que es mejor preguntar que quedarse callado. Trabajar con desarrolladores seniors es una ventaja muy grande, ¡es casi como trabajar con una enciclopedia andante!
 
 ###En el camino a la mejora
 - Haz que tus compañeros revisen tu código: de nuevo no seas tímido o tímida, estas son buenas prácticas que te harán crecer como desarrollador.
