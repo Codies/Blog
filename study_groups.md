@@ -11,7 +11,38 @@ sus conocimientos en Javascript!!!
 Para este primer ciclo, hemos abierto cupo para que 30 personas entren dos grupos: Javascript para principiantes y Javascript para
 intermedios. En el siguiente link se encuentran las personas que hemos seleccionado y el grupo en el que se encuentran categorizados:
 
-[Admitidos Grupos de estudio](https://docs.google.com/a/codies.org/spreadsheets/d/1chfYtqTYpPiHyj8D7aHnoXSRzSVJKtZCipov_nCPz0U/edit?usp=sharing)
+|NOMBRES Y APELLIDOS|	NIVEL|
+|-------------------|------|
+|Nidia Yaneth Castro Poloche|Principiante|
+|Adriana Esperanza Forero Polanco|Principiante|
+|MARTHA INES LIZARAZO TORRES|	Principiante|
+|Maria Camila Claros Criollo|	Principiante|
+|Yuliana Alejandra Silva Cortes|	Principiante|
+|Maria Camila Albarracin Silva|	Principiante|
+|Monica Liliana Venegas Vanegas|	Principiante|
+|Johanna Trujillo|	Principiante|
+|ANGELICA MARIA BELTRAN FAJARDO|	Principiante|
+|Lizeth Yuliana Beltran|	Principiante|
+|Gabriela Fernanda Rincon Parra| 	Principiante|
+|Dayana Salamanca|	Principiante|
+|Jobana Garavito Quijano|	Principiante|
+|Laura Vanessa Giraldo Salazar|	Principiante|
+|Ammy Elizabeth Tito Ovalle|	Principiante|
+|Monica Muñoz|	Principiante|
+|Ivone Mosquera| 	Principiante|
+|Yurley Cristina Lopez Castrillon|	Principiante|
+|KATHERINE HINCAPIE MARIN|	Principiante|
+|Leidy Carolina Zuluaga Bastidas|	Principiante|
+|Alexandra Segura|	Principiante|
+|Claudia Estupiñán Forero| Intermedio|
+|Maby Yhirleidy Pardo Rodriguez|	Intermedio|
+|Adriana Moya|	Intermedio|
+|Katherine Hernandez Leal| 	Intermedio|
+|Alicia Beltran| Intermedio|
+|Andrea Rodrìguez|	Intermedio|
+|Maria Alejandra Pérez Ochoa|	Intermedio|
+|Ana Milena Suarez Luna|	Intermedio|
+|Margie Orellano| 	Intermedio|
 
 Si tu nombre se encuentra en la lista, por favor dirigete a este [formulario](http://goo.gl/forms/rvKjfYDRIs) y contesta las preguntas.
 Si tu  nombre NO se encuentra en la lista, espera que pronto abriremos otro ciclo!
