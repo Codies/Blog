@@ -48,6 +48,7 @@ Si tu nombre se encuentra en la lista, por favor dirigete a este [formulario](ht
 Si tu  nombre NO se encuentra en la lista, espera que pronto abriremos otro ciclo!
 
 Una vez llenado el formulario, nos estaremos contactando y enviandoles el marco de trabajo!
+Es muy importante llenar el formulario de manera inmediata, hay plazo hasta el día 4 de Septiembre.
 
 Saludos y a estudiar Javascript!
 
