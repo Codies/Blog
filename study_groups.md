@@ -9,7 +9,7 @@ estudio en Codies. Tuvimos una gran acogida y estamos contentas de ver la cantid
 sus conocimientos en Javascript!!! 
 
 Para este primer ciclo, hemos abierto cupo para que 30 personas entren dos grupos: Javascript para principiantes y Javascript para
-intermedios. En el siguiente link se encuentran las personas que hemos seleccionado y el grupo en el que se encuentran categorizados:
+intermedios. En la siguiente tabla se encuentran las personas que hemos seleccionado y el grupo en el que se encuentran categorizados:
 
 |NOMBRES Y APELLIDOS|	NIVEL|
 |-------------------|------|
